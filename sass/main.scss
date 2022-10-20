@@ -1,10 +1,38 @@
+$containerWidth: 940px;
+$baseFontSize: 18px;
+$z-fixed-menu:100;
+
+
+
+
 @import './settings/normalize.scss';
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,300;0,400;0,700;0,800;1,400&family=Open+Sans:wght@300;400;700&display=swap');
+@import './settings/layout.scss';
 @import './settings/vars.scss';
 @import './settings/media.scss';
 @import './settings/fonts.scss';
 @import './settings/base.scss';
+@import './components/btn.scss';
+@import './components/section.scss';
+@import './components/headline.scss';
+@import './components/benefits.scss';
+@import './components/benefit.scss';
+@import './components/reviews.scss';
+@import './components/interactive-avatar.scss';
+@import './components/order-section.scss';
+@import './components/form.scss';
+@import './components/form-controls.scss';
+@import './components/radio.scss';
+@import './components/fixed-menu.scss';
+@import './components/phone.scss';
+
+
 
 //components
 @import './components/header.scss';
 @import './components/menu.scss';
+@import './components/hero.scss';
+@import './components/features.scss';
+@import './components/feature.scss';
+
 
