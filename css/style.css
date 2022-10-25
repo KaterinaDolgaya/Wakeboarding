@@ -585,7 +585,7 @@ table {
 }
 
 .order-section {
-  background: url("../../img/content/order-bg.png"), #2B2B2B;
+  background: url("../img/content/order-bg.png"), #2B2B2B;
   background-blend-mode: overlay;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -662,7 +662,7 @@ table {
   border-radius: 0;
 }
 .radio--checkbox .radio__visible:before {
-  background: url(../../img/icons/tick.png) center center no-repeat;
+  background: url(../img/icons/tick.png) center center no-repeat;
 }
 
 .radio__elem {
@@ -770,7 +770,7 @@ table {
 }
 
 .hero {
-  background: url("/img/content/hero-picture.png");
+  background: url("../img/content/hero-picture.png");
   background-size: 100%;
   background-repeat: no-repeat;
   background-size: cover;
