@@ -9,16 +9,16 @@
   border: none;
   color: black;
 
+
+  &:hover {
+    color: #FEDB3F;
+    background: #000;
+  }
+
   &--theme--transparent {
     background: none;
     color: white;
     border: none;
     margin-left: 22px;
   }
-  &:hover {
-    color: #FEDB3F;
-    background: #000;
-  }
-
-
 }
